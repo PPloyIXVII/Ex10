@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  *
- * @author SK
+ * @author Benjawan
  */
 public class StudentTable {
     public static boolean insertStudent(Student std) {
